@@ -43,7 +43,7 @@ But we don’t just stop there—FreeFroots is also a *testing ground* for new i
 ### Installation
 
 1. **Clone the repository**:  
-   `git clone https://github.com/yourusername/FreeFroots.git`
+   `git clone https://github.com/prajwalbkumar/FreeFroots.git`
    
 2. **Set up pyRevit**:  
    Follow the pyRevit setup guide [here](https://github.com/eirannejad/pyRevit) to install and configure pyRevit in Revit.
