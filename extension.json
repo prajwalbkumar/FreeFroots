@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "FreeFroots",
+    "description": "General core utilities for Revit",
+    "author": "Prajwal B. Kumar",
+    "author_profile": "https://github.com/prajwalbkumar",
+    "url": "https://github.com/prajwalbkumar/FreeFroots.git",
+    "website": "https://github.com/prajwalbkumar/FreeFroots",
+    "image": "",
+    "dependencies": []
+}
