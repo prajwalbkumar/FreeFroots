@@ -1,0 +1,52 @@
+# General Guideline
+# Leave 2 line spaces after every section
+# Leave 1 Line Space after every line to display items in a new line
+
+title: "ParamPeel"
+
+# context:
+#   - Walls
+#   - Text Notes
+
+tooltip:   
+  en_us: >-
+    Version   =   0.1.0
+    
+    Date       =   20.09.2024
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Coming Soon
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Coming Soon
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+    
+    
+    - [03.12.2024] v0.x.x Early Development
+    
+    ________________________________________________________________
+
+# highlight: new
+# highlight: updated
+
+# help_url: 
+
+author: Prajwal B Kumar
+
+# authors:
+#   - Prakriti Srimal
+#   - Prajwal B Kumar
