@@ -1,0 +1,60 @@
+title: "CherryPick"
+
+tooltip:   
+  en_us: >-
+    Version   =   0.x.x
+    
+    Date       =   20.04.2025
+
+    ________________________________________________________________
+    
+    
+    Description:
+
+
+    Loads and applies selected Shared Parameters to the categories defined in the Excel or 
+    
+    Removes Shared Parameters from the categories defined in the Excel.
+
+    ________________________________________________________________
+    
+    
+    How-To:
+
+
+    1. Run the ParaControl Tool
+
+    2. Select the option you want to perform (Add/Remove)
+
+    3. If you choose to add an parameter then, select the Shared Parameter.txt file
+
+    4. Select the Excel File.
+
+        - The Excel file should have the following columns:
+        
+          - Parameter Group (The Group Name in the Shared Parameter file)
+
+          - Parameter Name (The Name of the Parameter in the Shared Parameter file)
+
+          - Target Categories (The Categories to which the Parameter should be Added/Removed)
+
+          - Type v/s Instance (Mention if the Parameter is a Type Parameter or an Instance Parameter)
+
+          - Group Name (The Group Name in which the Parameter should be added)
+
+
+    ________________________________________________________________
+    
+    
+    Changelog:
+
+    - [20.04.2025] v0.x.x Early Development
+
+
+    
+    ________________________________________________________________
+
+
+highlight: updated
+
+author: Prakriti Srimal
